@@ -1,4 +1,0 @@
-The following are the working areas in the loacal git repo
-i. working area
-ii. staging area
-iii. commit area
